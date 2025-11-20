@@ -9,3 +9,7 @@ So it'd work well on the blank pluign, but don't try to use the replacer without
 
 If you want it to work on other text editable files as well, just edit the powershell script and add it to the list at the top.
 
+# Notes IMPORTANT:
+The system probably could be used for older engines but its currently a 5.6 uplugin
+
+# Notes IMPORTANT: Check the branches for the engine
